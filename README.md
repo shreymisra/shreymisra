@@ -1,9 +1,13 @@
-<h1>Hey there 👋</h1>
+## Hey There :raised_hand_with_fingers_splayed:
+
+I am a passionate software developer having an industry experience of 1.5 years. I've been working in the field of web development and have worked on HTML, CSS, Javascript, Angular, NodeJs.I have also worked on Apache Kafka stream processing platform to sync real-time data on the UI.
+
+I am always trying to learn something new each and everyday and would love to collaborate and share interesting ideas over a cup of coffee :coffee:. I love to travel around to different places ,meet new people and taste exotic food around the world.
+
+###### You can connect with me on [LinkedIn](https://www.linkedin.com/in/shreymisra8/) and [Github](https://github.com/shreymisra).
+
 <!--
-**shreymisra/shreymisra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+Here are some ideas to get yoku started:
 -   🔭 I’m currently working on ...
 -   🌱 I’m currently learning ...
 -   👯 I’m looking to collaborate on ...
